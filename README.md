@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hey, I'm Daniel!
+
+- 19 year old studying Computer Science and Computer Engineering at University of Wisconsin-Madison
+- Interested in Artificial Intelligence, Machine Learning, and Software Engineering
+
+https://www.linkedin.com/in/danielryang/
 
 <!--
 **danielryang/danielryang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
