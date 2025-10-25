@@ -4,10 +4,10 @@
 - Interested in artificial intelligence research, machine learning, and software engineering
 
 Some of my links:
-https://www.linkedin.com/in/danielryang/
-https://www.spoj.com/users/potatoskewers/
-https://monkeytype.com/profile/potatoskewers
-https://leetcode.com/u/danielryang/
+https://www.linkedin.com/in/danielryang/  
+https://www.spoj.com/users/potatoskewers/  
+https://monkeytype.com/profile/potatoskewers  
+https://leetcode.com/u/danielryang/  
 
 Reach out to me if you find anything interesting! Thanks for stopping by!
 
