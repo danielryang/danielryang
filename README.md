@@ -5,9 +5,10 @@
 
 Some of my links:  
 https://www.linkedin.com/in/danielryang/  
-https://www.spoj.com/users/potatoskewers/  
-https://monkeytype.com/profile/potatoskewers  
+https://www.spoj.com/users/potatoskewers/ 
 https://leetcode.com/u/danielryang/  
+https://monkeytype.com/profile/potatoskewers  
+
 
 Reach out to me if you find anything interesting! Thanks for stopping by!
 
