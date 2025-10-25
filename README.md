@@ -3,7 +3,7 @@
 - 19 year old studying Computer Science and Computer Engineering at University of Wisconsin-Madison
 - Interested in artificial intelligence research, machine learning, and software engineering
 
-Some of my links:
+Some of my links:  
 https://www.linkedin.com/in/danielryang/  
 https://www.spoj.com/users/potatoskewers/  
 https://monkeytype.com/profile/potatoskewers  
