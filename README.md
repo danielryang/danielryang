@@ -5,7 +5,7 @@
 
 Some of my links:  
 https://www.linkedin.com/in/danielryang/  
-https://www.spoj.com/users/potatoskewers/  
+https://devpost.com/danielyangisme/
 https://leetcode.com/u/danielryang/  
 https://monkeytype.com/profile/potatoskewers  
 
