@@ -1,7 +1,7 @@
 ## Hey, I'm Daniel!
 
-- 19 year old studying Computer Science and Computer Engineering at University of Wisconsin-Madison
-- Interested in artificial intelligence research, machine learning, and software engineering
+- 19 year old studying Computer Science at Georgia Institute of Technology
+- Currently working and looking to collaborate in artificial intelligence research, machine learning, and software engineering
 
 Some of my links:  
 https://www.linkedin.com/in/danielryang/  
