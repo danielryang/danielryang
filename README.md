@@ -1,6 +1,6 @@
 ## Hey, I'm Daniel!
 
-- 19 year old studying Computer Science at Georgia Institute of Technology
+- 20 year old studying Computer Science at Georgia Institute of Technology
 - Currently interested in machine learning research, core high performance computing, cloud computing, and software/machine learning engineering
 
 Some of my links:  
