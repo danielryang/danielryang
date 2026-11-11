@@ -1,6 +1,8 @@
 ## Hey, I'm Daniel!
 
 - 20 year old studying Computer Science at Georgia Institute of Technology
+- Current Uber SWE intern working on ML pipeline orchestration/validation for training and inference 
+- Previous SWE Intern at Visa working on agentic automations for hyperparameter tuning, model selection, data preprocessing, feature vectorization.
 - Currently interested in machine learning research, core high performance computing, cloud computing, and software/machine learning engineering
 
 Some of my links:  
